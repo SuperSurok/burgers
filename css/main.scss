@@ -1,0 +1,25 @@
+//colors
+$yellow: #f9b43b;
+$orange: #e35028;
+$black: #2f3234;
+$red: #e35028;
+
+//setups
+@import "../css/_layout";
+@import "../css/normalize";
+@import "../misk/_fonts";
+@import "../misk/_mixins";
+@import "../misk/_common";
+
+//blocks
+@import "../block/common";
+@import "../block/header";
+@import "../block/hero";
+@import "../block/best";
+@import "../block/burgers";
+@import "../block/team";
+@import "../block/menu";
+@import "../block/reviews";
+@import "../block/order";
+@import "../block/map";
+@import "../block/popup";
